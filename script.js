@@ -1,3 +1,3 @@
 setTimeout(function() {
-  window.location.href = "//forms.gle/81yxei1r4EkKoufi6";
+  window.location.href = "//forms.gle/7NS6GVMnDk7JwHWj6";
 }, 1);
