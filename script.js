@@ -1,3 +1,3 @@
 setTimeout(function() {
-  window.location.href = "//forms.gle/ws2NonqrmBN58y7E9";
+  window.location.href = "//c1studios.netlify.app/";
 }, 1000);
